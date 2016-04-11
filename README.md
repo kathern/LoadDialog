@@ -1,2 +1,2 @@
 # LoadDialog
-https://github.com/kathern/LoadDialog/blob/master/load.gif
+![image](https://github.com/kathern/LoadDialog/blob/master/load.gif)
