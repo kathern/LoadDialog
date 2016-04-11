@@ -1,1 +1,2 @@
 # LoadDialog
+LoadDialog/load.gif
